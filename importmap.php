@@ -25,4 +25,7 @@ return [
     '@hotwired/turbo' => [
         'version' => '7.3.0',
     ],
+    '@symfony/ux-map/abstract-map-controller' => [
+        'path' => './vendor/symfony/ux-map/assets/dist/abstract_map_controller.js',
+    ],
 ];
